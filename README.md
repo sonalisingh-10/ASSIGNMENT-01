@@ -1,4 +1,4 @@
-Assignment 01
+# Assignment 01
 
 ## Problem 1: Cyclic Substring Maximum Sum
 
