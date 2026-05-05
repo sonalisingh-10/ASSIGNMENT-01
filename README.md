@@ -10,6 +10,7 @@
 Time Complexity:
 O(n)
 
+----------
 ## Problem 2: Array Transformation Cost Minimization
 
  Approach:
