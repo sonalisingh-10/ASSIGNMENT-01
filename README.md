@@ -1,6 +1,6 @@
 # Assignment 01
 
-## Problem 1: Cyclic Substring Maximum Sum
+# Problem 1: Cyclic Substring Maximum Sum
 
 # Approach:
 - Sliding Window technique
